@@ -8,3 +8,4 @@ https://downloads.wordpress.org/plugin/contact-form-7.4.7.zip
 https://downloads.wordpress.org/plugin/contact-form-cfdb7.zip
 https://downloads.wordpress.org/plugin/page-links-to.2.9.6.zip
 https://downloads.wordpress.org/plugin/sliced-invoices.3.6.2.zip
+https://wordpress.org/plugins/wp-clone-template/
